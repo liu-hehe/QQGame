@@ -1,0 +1,72 @@
+
+[model   ]:	竞技场/免费挑战
+[GET][200]:	https://dld.qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=&sid=&channel=0&g_ut=1&cmd=arena&op=challenge
+[datetime]:	2025-08-04 17:00:10.314642+08:00
+[elapse  ]:	488.148ms
+[headers ]:	{'User-Agent': 'python-requests/2.25.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'cookie': 'openId=B9AF78C8797F09238E0629B94C0C222A; accessToken=0D4AE86E81DA83C8773CDC92B99BBE6A; newuin=2366088952'}
+[body    ]:	None
+[response]:	【竞技场】竞技点商店更新提示免费挑战次数已用完！赛季状态：赛季中（距赛季结束还有22天）剩余挑战次数：50挑战消耗：竞技场入场券*1开始挑战领取奖励 今日已挑战(5/5)我的战斗力：4404.4我的排名：未上榜排行奖励我的积分：709(青铜II 最大行动力：55 当前武器：11 当前技能：9)下一分段积分：800设置武器技能挑战纪录挑战规则竞技场入场券返回大乐斗首页
+
+
+[model   ]:	竞技场/免费挑战
+[GET][200]:	https://dld.qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=&sid=&channel=0&g_ut=1&cmd=arena&op=challenge
+[datetime]:	2025-08-04 17:00:10.809043+08:00
+[elapse  ]:	410.029ms
+[headers ]:	{'User-Agent': 'python-requests/2.25.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'cookie': 'openId=B9AF78C8797F09238E0629B94C0C222A; accessToken=0D4AE86E81DA83C8773CDC92B99BBE6A; newuin=2366088952'}
+[body    ]:	None
+[response]:	【竞技场】竞技点商店更新提示免费挑战次数已用完！赛季状态：赛季中（距赛季结束还有22天）剩余挑战次数：50挑战消耗：竞技场入场券*1开始挑战领取奖励 今日已挑战(5/5)我的战斗力：4404.4我的排名：未上榜排行奖励我的积分：709(青铜II 最大行动力：55 当前武器：11 当前技能：9)下一分段积分：800设置武器技能挑战纪录挑战规则竞技场入场券返回大乐斗首页
+
+
+[model   ]:	竞技场/免费挑战
+[GET][200]:	https://dld.qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=&sid=&channel=0&g_ut=1&cmd=arena&op=challenge
+[datetime]:	2025-08-04 17:00:11.223419+08:00
+[elapse  ]:	466.773ms
+[headers ]:	{'User-Agent': 'python-requests/2.25.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'cookie': 'openId=B9AF78C8797F09238E0629B94C0C222A; accessToken=0D4AE86E81DA83C8773CDC92B99BBE6A; newuin=2366088952'}
+[body    ]:	None
+[response]:	【竞技场】竞技点商店更新提示免费挑战次数已用完！赛季状态：赛季中（距赛季结束还有22天）剩余挑战次数：50挑战消耗：竞技场入场券*1开始挑战领取奖励 今日已挑战(5/5)我的战斗力：4404.4我的排名：未上榜排行奖励我的积分：709(青铜II 最大行动力：55 当前武器：11 当前技能：9)下一分段积分：800设置武器技能挑战纪录挑战规则竞技场入场券返回大乐斗首页
+
+
+[model   ]:	竞技场/免费挑战
+[GET][200]:	https://dld.qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=&sid=&channel=0&g_ut=1&cmd=arena&op=challenge
+[datetime]:	2025-08-04 17:00:11.694810+08:00
+[elapse  ]:	450.84ms
+[headers ]:	{'User-Agent': 'python-requests/2.25.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'cookie': 'openId=B9AF78C8797F09238E0629B94C0C222A; accessToken=0D4AE86E81DA83C8773CDC92B99BBE6A; newuin=2366088952'}
+[body    ]:	None
+[response]:	【竞技场】竞技点商店更新提示免费挑战次数已用完！赛季状态：赛季中（距赛季结束还有22天）剩余挑战次数：50挑战消耗：竞技场入场券*1开始挑战领取奖励 今日已挑战(5/5)我的战斗力：4404.4我的排名：未上榜排行奖励我的积分：709(青铜II 最大行动力：55 当前武器：11 当前技能：9)下一分段积分：800设置武器技能挑战纪录挑战规则竞技场入场券返回大乐斗首页
+
+
+[model   ]:	竞技场/免费挑战
+[GET][200]:	https://dld.qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=&sid=&channel=0&g_ut=1&cmd=arena&op=challenge
+[datetime]:	2025-08-04 17:00:12.150955+08:00
+[elapse  ]:	449.093ms
+[headers ]:	{'User-Agent': 'python-requests/2.25.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'cookie': 'openId=B9AF78C8797F09238E0629B94C0C222A; accessToken=0D4AE86E81DA83C8773CDC92B99BBE6A; newuin=2366088952'}
+[body    ]:	None
+[response]:	【竞技场】竞技点商店更新提示免费挑战次数已用完！赛季状态：赛季中（距赛季结束还有22天）剩余挑战次数：50挑战消耗：竞技场入场券*1开始挑战领取奖励 今日已挑战(5/5)我的战斗力：4404.4我的排名：未上榜排行奖励我的积分：709(青铜II 最大行动力：55 当前武器：11 当前技能：9)下一分段积分：800设置武器技能挑战纪录挑战规则竞技场入场券返回大乐斗首页
+
+
+[model   ]:	竞技场/领取奖励
+[GET][200]:	https://dld.qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=&sid=&channel=0&g_ut=1&cmd=arena&op=drawdaily
+[datetime]:	2025-08-04 17:00:12.605430+08:00
+[elapse  ]:	424.409ms
+[headers ]:	{'User-Agent': 'python-requests/2.25.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'cookie': 'openId=B9AF78C8797F09238E0629B94C0C222A; accessToken=0D4AE86E81DA83C8773CDC92B99BBE6A; newuin=2366088952'}
+[body    ]:	None
+[response]:	【竞技场】竞技点商店更新提示今天已经领取过日结奖励！赛季状态：赛季中（距赛季结束还有22天）剩余挑战次数：50挑战消耗：竞技场入场券*1开始挑战领取奖励 今日已挑战(5/5)我的战斗力：4404.4我的排名：未上榜排行奖励我的积分：709(青铜II 最大行动力：55 当前武器：11 当前技能：9)下一分段积分：800设置武器技能挑战纪录挑战规则竞技场入场券返回大乐斗首页
+
+
+[model   ]:	深渊之潮/帮派巡礼/领取
+[GET][200]:	https://dld.qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=&sid=&channel=0&g_ut=1&cmd=abysstide&op=getfactiongift
+[datetime]:	2025-08-04 17:07:22.713039+08:00
+[elapse  ]:	459.378ms
+[headers ]:	{'User-Agent': 'python-requests/2.25.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'cookie': 'openId=B9AF78C8797F09238E0629B94C0C222A; accessToken=0D4AE86E81DA83C8773CDC92B99BBE6A; newuin=2366088952'}
+[body    ]:	None
+[response]:	【帮派巡礼】已领取时间段赠礼！当前帮派等级：10巡游者：黄药师巡游者每日6点和18点开始巡游，期间均有12小时时间可以随时领取赠礼！！领取巡游赠礼 距离下次巡游0小时52分钟10级帮派刷深渊被动属性：基础力量+28%基础速度+28%基础敏捷+28%基础生命+14%返回上一页返回大乐斗首页
+
+
+[model   ]:	深渊之潮/深渊秘境/进入副本次数
+[GET][200]:	https://dld.qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=&sid=&channel=0&g_ut=1&cmd=abysstide&op=viewallabyss
+[datetime]:	2025-08-04 17:07:23.178716+08:00
+[elapse  ]:	468.061ms
+[headers ]:	{'User-Agent': 'python-requests/2.25.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'cookie': 'openId=B9AF78C8797F09238E0629B94C0C222A; accessToken=0D4AE86E81DA83C8773CDC92B99BBE6A; newuin=2366088952'}
+[body    ]:	None
+[response]:	【深渊秘境】崎岖斗界魂渡桥须臾之河曲镜空洞光影迷界吞厄源头渊秘祭坛古帝遗迹今日可进入副本次数：01.消耗黄金卷轴*5+斗神符*1兑换2/2次2.加入任意帮派后可前往帮派巡礼领取许愿点，可随机性增加副本次数机会~返回上一页返回大乐斗首页
+
